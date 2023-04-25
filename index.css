@@ -5,13 +5,14 @@ body {
 #tricon {
   width: 0px;
   height: 0px;
-  border-top: 100px solid #444444;
+  border-top: 100px solid #434343;
   border-right: 100px solid transparent;
+  position: absolute;
 }
 #tricon2 {
   width: 0px;
   height: 0px;
-  border-top: 150px solid #313131;
+  border-top: 150px solid #444444;
   border-right: 150px solid transparent;
   position: absolute;
 }
