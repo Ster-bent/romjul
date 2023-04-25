@@ -1,8 +1,9 @@
 body {
     background-color: #333331;
+    margin: 0%
 }
 #header {
-  width: 0px;
+  width: 1000px;
   height: 0px;
   border-top: 100px solid red;
   border-right: 100px solid transparent;
