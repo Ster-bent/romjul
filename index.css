@@ -2,9 +2,9 @@ body {
     background-color: #333331;
 }
 #header {
-  width: 0;
-  height: 0;
-  border-left: 50px solid transparent;
-  border-right: 50px solid transparent;
+  border-color: transparent;
+  border-top: 0%;
+  border-left: 50% solid transparent;
+  border-right: 50% solid transparent;
   border-bottom: 100px solid red;
 }
