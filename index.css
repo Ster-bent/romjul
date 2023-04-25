@@ -2,9 +2,20 @@ body {
     background-color: #333331;
     margin: 0px
 }
-#header {
+#tricon {
   width: 0px;
   height: 0px;
   border-top: 100px solid #444444;
   border-right: 100px solid transparent;
+}
+#tricon2 {
+  width: 0px;
+  height: 0px;
+  border-top: 150px solid #313131;
+  border-right: 150px solid transparent;
+  position: absolute;
+}
+#title {
+  position: absolute;
+  text-align: center;
 }
