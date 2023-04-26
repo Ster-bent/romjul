@@ -1,12 +1,12 @@
 body {
-    background-color: #333331;
+    background-color: white;
     margin: 0px
 }
 #title {
   position: absolute;
   text-align: center;
   font-family: Arial;
-  color: white;
+  color: black;
   float: right;
 }
 #t1 {
