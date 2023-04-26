@@ -14,5 +14,6 @@ body {
   text-align: center;
   font-family: Arial;
   color: white;
-  margin-top: 100px solid #333333;
+  border-top: 150px solid #333333;
+  border-right: 150px solid transparent;
 }
