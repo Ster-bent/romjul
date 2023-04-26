@@ -19,4 +19,5 @@ body {
 #title {
   position: absolute;
   text-align: center;
+  float: left;
 }
