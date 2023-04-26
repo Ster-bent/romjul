@@ -19,4 +19,6 @@ body {
 #title {
   position: absolute;
   text-align: center;
+  font-family: Arial;
+  color: white;
 }
