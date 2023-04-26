@@ -44,3 +44,6 @@ body {
   border-top: 25px solid #292929;
   border-right: 25px solid #444444;
 }
+#container{
+  background-color: crimson;
+}
