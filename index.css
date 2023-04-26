@@ -13,28 +13,34 @@ body {
   width: 0px;
   height: 0px;
   border-top: 150px solid #444444;
-  border-right: 150px solid transparent;
+  border-right: 150px solid #292929;
 }
 #t2 {
   width: 0px;
   height: 0px;
   border-top: 125px solid #414141;
-  border-right: 125px solid transparent;
+  border-right: 125px solid #323232;
 }
 #t3 {
   width: 0px;
   height: 0px;
   border-top: 100px solid #383838;
-  border-right: 100px solid transparent;
+  border-right: 100px solid #353535;
 }
 #t4 {
   width: 0px;
   height: 0px;
   border-top: 75px solid #353535;
-  border-right: 75px solid transparent;
+  border-right: 75px solid #383838;
 }#t5 {
   width: 0px;
   height: 0px;
   border-top: 50px solid #323232;
-  border-right: 50px solid transparent;
+  border-right: 50px solid #414141;
+}
+#t6 {
+  width: 0px;
+  height: 0px;
+  border-top: 25px solid #292929;
+  border-right: 25px solid #444444;
 }
