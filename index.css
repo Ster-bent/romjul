@@ -45,8 +45,6 @@ body {
   border-right: 25px solid #444444;
 }
 #container{
-  width: 150px;
-  height: 525px;
-  float: left;
-  background-color: crimson;
+  border-width: 150px;
+  border-color: crimson;
 }
