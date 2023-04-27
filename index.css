@@ -50,4 +50,5 @@ body {
   width: 150px;
   height: 525px;
   position: absolute;
+  z-index: 10;
 }
