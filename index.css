@@ -123,6 +123,6 @@ body {
   align-self: right;
   width: 150px;
   height: 525px;
-  position: relative;
+  position: absolute;
   z-index: 0;
 }
