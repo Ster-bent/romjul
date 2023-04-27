@@ -120,7 +120,7 @@ body {
 }
 #container2 {
   background-color: #0052ff;
-  align-self: right;
+  float: right;
   width: 150px;
   height: 525px;
   position: absolute;
