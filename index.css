@@ -123,6 +123,7 @@ body {
   float: right;
   width: 150px;
   height: 525px;
-  position: absolute;
+  right: 100%;
+  position: relative;
   z-index: 0;
 }
