@@ -71,5 +71,5 @@ body {
   border-right: 25px solid #444444;
   position: relative;
   z-index: 2;
-  float: right;
+  top: 100%;
 }
