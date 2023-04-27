@@ -14,35 +14,47 @@ body {
   height: 0px;
   border-top: 150px solid #444444;
   border-right: 150px solid #292929;
+  position: fixed;
+  z-index: 1;
 }
 #t2 {
   width: 0px;
   height: 0px;
   border-top: 125px solid #414141;
   border-right: 125px solid #323232;
+  position: fixed;
+  z-index: 1;
 }
 #t3 {
   width: 0px;
   height: 0px;
   border-top: 100px solid #383838;
   border-right: 100px solid #353535;
+  position: fixed;
+  z-index: 1;
 }
 #t4 {
   width: 0px;
   height: 0px;
   border-top: 75px solid #353535;
   border-right: 75px solid #383838;
+  position: fixed;
+  z-index: 1;
 }#t5 {
   width: 0px;
   height: 0px;
   border-top: 50px solid #323232;
   border-right: 50px solid #414141;
+  position: fixed;
+  z-index: 1;
 }
 #t6 {
   width: 0px;
   height: 0px;
   border-top: 25px solid #292929;
   border-right: 25px solid #444444;
+  position: fixed;
+  z-index: 1;
 }
 #container{
   background-color: crimson;
@@ -50,5 +62,5 @@ body {
   width: 150px;
   height: 525px;
   position: absolute;
-  z-index: 10;
+  z-index: 0;
 }
