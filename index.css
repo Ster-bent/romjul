@@ -117,13 +117,12 @@ body {
   z-index: 1;
 }
 #rom {
-  width: 300px;
-  height: 600px;
   z-index: 5;
   position: relative;
-  border: 10px solid crimson;
-  align-self: center;
 }
-#rom:hover {
+img {
+  border: 10px solid crimson;
+}
+img:hover {
   border: 20px solid #0073ff;
 }
