@@ -71,7 +71,6 @@ body {
   border-right: 25px solid #444444;
   position: relative;
   z-index: 1;
-  left: 100%;
 }
 #t8 {
   height: 0px;
@@ -80,7 +79,6 @@ body {
   border-right: 50px solid #414141;
   position: relative;
   z-index: 1;
-  left: 100%;
 }
 #t9 {
   height: 0px;
@@ -89,7 +87,6 @@ body {
   border-right: 75px solid #383838;
   position: relative;
   z-index: 1;
-  left: 100%;
 }
 #t10 {
   height: 0px;
@@ -98,7 +95,6 @@ body {
   border-right: 100px solid #353535;
   position: relative;
   z-index: 1;
-  left: 100%;
 }
 #t11 {
   height: 0px;
@@ -107,7 +103,6 @@ body {
   border-right: 125px solid #323232;
   position: relative;
   z-index: 1;
-  left: 100%;
 }
 #t12 {
   height: 0px;
@@ -116,5 +111,4 @@ body {
   border-right: 150px solid #292929;
   position: relative;
   z-index: 1;
-  left: 100%;
 }
