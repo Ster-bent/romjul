@@ -1,13 +1,17 @@
 body {
-    background-color: white;
+    background-color: #434343;
     margin: 0px
 }
 #title {
-  position: absolute;
+  z-index: 5;
   text-align: center;
   font-family: Arial;
-  color: black;
-  float: right;
+  color: white;
+  border: 5px solid white
+}
+#title::hover {
+  color: crimson;
+  border: 10px solid crimson;
 }
 #t1 {
   width: 0px;
