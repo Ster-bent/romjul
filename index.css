@@ -9,7 +9,7 @@ body {
   color: white;
   border: 5px solid white
 }
-#title::hover {
+#title:hover {
   color: crimson;
   border: 10px solid crimson;
 }
