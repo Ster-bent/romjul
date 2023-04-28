@@ -119,10 +119,11 @@ body {
 #rom {
   align-content: center;
   z-index: 5;
-  position: relative;
+  position: absolute;
 }
 img {
   align-self: center;
+  position: absolute;
   width: 300px;
   height: 400px;
   z-index: 5;
