@@ -113,10 +113,12 @@ body {
   z-index: 1;
 }
 #rom {
-  size: 50%;
+  width: 300px;
+  height: 800px;
   z-index: 90;
   position: relative;
   border: 10px solid crimson;
+  top: 1000px
 }
 #rom:hover {
   border: 20px solid #0073ff;
