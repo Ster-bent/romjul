@@ -122,6 +122,7 @@ body {
   position: relative;
 }
 img {
+  align-self: center;
   width: 300px;
   height: 400px;
   z-index: 5;
